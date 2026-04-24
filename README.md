@@ -145,6 +145,7 @@ This AI acts like your co-writer for novels, films, or short stories.
 | Layer | Tools Used |
 |-------|------------|
 | Frontend | React.js, TailwindCSS, Vite |
+| Backend | Springboot |
 | UI/Animation | shadcn/ui, Framer Motion, Lucide Icons |
 | AI Backend | API Inferencing |
 | Data Processing | Python backend + Pandas + Matplotlib + Seaborn |
